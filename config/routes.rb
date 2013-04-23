@@ -1,0 +1,1 @@
+get 'churts', :to => 'churts#index'
